@@ -47,7 +47,6 @@ table {
     border: 2px solid green;
     border-radius: 2px;
     font-family: Georgia;
-    border-collapse: collapse;
 }
 main a {
     text-decoration: none;
@@ -68,9 +67,9 @@ table img {
 h4 p {
     font-family: cursive;
     font-size: 17px;
-    border-left: 2px dashed grey;
-    border-bottom: 2px dashed grey;
-    border-right: 2px dashed grey;
+    border-left: 2px dashed black;
+    border-bottom: 2px dashed black;
+    border-right: 2px dashed black;
     padding: 3px;
     margin-left: 10px;
     margin-right: 10px;
@@ -83,9 +82,9 @@ h5 {
 h5 p {
     font-family: cursive;
     font-size: 17px;
-    border-left: 2px dashed grey;
-    border-bottom: 2px dashed grey;
-    border-right: 2px dashed grey;
+    border-left: 2px dashed black;
+    border-bottom: 2px dashed black;
+    border-right: 2px dashed black;
     padding: 3px;
     margin-left: 10px;
     margin-right: 10px;
@@ -119,4 +118,5 @@ footer img {
     border-radius: 5px;
     background-color: darkblue;
 }
+ 
 
