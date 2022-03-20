@@ -47,6 +47,7 @@ table {
     border: 2px solid green;
     border-radius: 2px;
     font-family: Georgia;
+    border-collapse: collapse;
 }
 main a {
     text-decoration: none;
@@ -118,5 +119,3 @@ footer img {
     border-radius: 5px;
     background-color: darkblue;
 }
- 
-
