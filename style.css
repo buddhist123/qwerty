@@ -12,22 +12,109 @@ h1 {
 h2 {
     text-align: center;
     font-size: 25px;
+    background-color: peru;
 }
 h3 {
     text-align: center;
     font-size: 40px;
     border: 2px solid;
     background-color: #8B4513;
+    border-radius: 10px;
 }
 p { 
-    font-family: Courier New cursive;
+    font-family: gabriola;
+
 }
 main {
     background-color:darkorange;
+    font-size: 30px;
+}
+header a {
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
     font-size: 20px;
+    background-color: white;
+    padding: 1px;
 }
-img {
+h1 img {
+    margin-top: 30px;
+}
+th img {
+    margin-left: 10px;
+}
+table {
+    border: 2px solid green;
+    border-radius: 2px;
+    font-family: Georgia;
+}
+main a {
+    text-decoration: none;
+    border: 3px solid pink;
+    background-color: plum;
+    padding: 5px;
+}
+h4 {
     text-align: center;
+    font-family: cursive;
 }
+h6 {
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-radius: 1px;
+    text-align: left;
+    color: white;
+    font-size: 50px;
+}
+td {
+    border: 2px solid green;
+}
+table img {
+    padding: 2px;
+}
+h4 p {
+    font-family: cursive;
+    font-size: 17px;
+    border-left: 2px dashed grey;
+    border-bottom: 2px dashed grey;
+    border-right: 2px dashed grey;
+    padding: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
 
+}
+h5 {
+    text-align: center;
+    font-family: cursive;
+}
+h5 p {
+    font-family: cursive;
+    font-size: 17px;
+    border-left: 2px dashed grey;
+    border-bottom: 2px dashed grey;
+    border-right: 2px dashed grey;
+    padding: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+footer p {
+    font-size: 20px;
+    font-family: geneva;
+    padding: 2px;
+}
+footer {
+    border: 2px solid black;
+    background-color: rgb(128, 93, 143);
+}
+footer a {
+    text-decoration: none;
+    margin: 3px;
+    font-size: 20px;
+    color: black;
+}
+footer img {
+    border: 2px solid aqua;
+    border-radius: 5px;
+    background-color: darkblue;
+}
 
