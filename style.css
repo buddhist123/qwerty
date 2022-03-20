@@ -119,3 +119,6 @@ footer img {
     border-radius: 5px;
     background-color: darkblue;
 }
+footer p {
+    background-color: pink;
+}
